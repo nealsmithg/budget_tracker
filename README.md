@@ -12,9 +12,9 @@ For this project I have made this budget tracker webpage able to still work whil
 </ol>
     
 ## Usage
-To use this website is easy. All you have to do is go to the website at [Budget Tracker](https://fast-reef-08065.herokuapp.com/). The website is pretty simple to use. This website is only able to keep track of one persons budget right now but can be scaled up to have multiple logins in order to store multiple peoples information. At this point this is all the website does but it does have a bunch of other things that can be added to the website in future deployments
+To use this website is easy. All you have to do is go to the website at [Budget Tracker](https://sheltered-temple-56443.herokuapp.com/). The website is pretty simple to use. This website is only able to keep track of one persons budget right now but can be scaled up to have multiple logins in order to store multiple peoples information. At this point this is all the website does but it does have a bunch of other things that can be added to the website in future deployments
 
 ## Preview
 
-[Deployed Website](https://fast-reef-08065.herokuapp.com/)
+[Deployed Website](https://sheltered-temple-56443.herokuapp.com/)
 [Github Website](https://github.com/nealsmithg/budget_tracker)
